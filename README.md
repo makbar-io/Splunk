@@ -1,6 +1,5 @@
-<img src="https://github.com/user-attachments/assets/61eae57a-2e18-4389-a04d-c08e38e55952" alt="Image description" width="200">
+##  Splunk <img src="https://github.com/user-attachments/assets/61eae57a-2e18-4389-a04d-c08e38e55952" alt="Image description" width="200">
 
-##  Splunk 
 Attempt to learn Splunk and try to built cool projects
 
 Splunk is a widely used Security Information and Event Management (SIEM) platform that plays a critical role in identifying threats and risks within cybersecurity environments. I first learned about Splunk through the Google IT Support Professional Certification course. Intrigued by its potential, I decided to explore the platform and leverage its capabilities. Splunk’s 60-day trial provided me with an opportunity to experience the full UI and functionality that professionals encounter in corporate settings.

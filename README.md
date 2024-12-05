@@ -1,4 +1,4 @@
-##  Splunk <img src="https://github.com/user-attachments/assets/61eae57a-2e18-4389-a04d-c08e38e55952" alt="Image description" width="200">
+ <img src="https://github.com/user-attachments/assets/61eae57a-2e18-4389-a04d-c08e38e55952" alt="Image description" width="200">
 
 Attempt to learn Splunk and try to built cool projects
 
